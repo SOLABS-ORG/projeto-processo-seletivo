@@ -44,6 +44,10 @@ Você deve testar seu fluxo enviando requisições HTTP (POST) para o seu webhoo
 - **Domínio do n8n:** Uso correto de nós, parse de dados (JSON), tratamento de erros (Error Trigger) e uso de variáveis.
 - **Simplicidade e Eficiência:** O fluxo é limpo e direto ao ponto?
 
+### ⏱️ Prazo e esforço estimado
+- **Esforço estimado:** entre 6 e 8 horas de desenvolvimento.
+- **Prazo para entrega:** até **2 dias corridos (48h)** após o recebimento do desafio.
+
 ### 🚀 Como entregar
 1. Crie um fork ou um repositório privado no GitHub e libere acesso *READ* para o usuário `henricop`.
 2. Exporte o seu fluxo do n8n (arquivo `.json`) e adicione ao repositório.
